@@ -26,12 +26,18 @@
         text-decoration: none;
         color: inherit;
         margin-right: 40px;
+        padding-right: 30px;
+      }
+
+      .logobar {
+        margin-right: 50px;
       }
 
       .itemContainer {
         display: flex;
         align-items: center;
         margin-left: 30px;
+        margin-right: 50px;
 
         @include mobile{
           display: none;

@@ -28,6 +28,7 @@ export default function Intro() {
           <h3>
             Freelance <span ref={textRef}></span>
           </h3>
+          <h3>Currently a graduating senior at Cal Poly Pomona with a focus on E-business. Watch me and my portfolio continue to grow!</h3>
         </div>
         <a href="#portfolio">
           <img src="assets/down.png" alt="" />

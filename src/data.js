@@ -1,37 +1,37 @@
 export const featuredPortfolio = [
     {
       id: 1,
-      title: "Social Media App",
+      title: "Video Game Search Database",
       img:
-        "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+        "https://media3.giphy.com/media/QWMHlsQ8xO3yHKTvod/giphy.gif?cid=790b7611f732101a37452aeba45b6973925629b2e3339454&rid=giphy.gif&ct=g",
     },
     {
       id: 2,
-      title: "Rampa UI Design",
+      title: "Book Search Engine",
       img:
-        "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+        "https://media1.giphy.com/media/swxmWQid2pRIYNYCSI/giphy.gif",
     },
     {
       id: 3,
-      title: "E-commerce Web Design",
+      title: "Progressive Budget Application",
       img:
-        "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+        "https://media1.giphy.com/media/KmZHEZcx6D30NmeleY/giphy.gif",
     },
     {
       id: 4,
-      title: "Relax Mobile App",
+      title: "Employee Database Manager",
       img:
-        "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+        "https://media4.giphy.com/media/UECfLG442N1Jh9rONX/giphy.gif",
     },
     {
       id: 5,
-      title: "Hero Web Design",
+      title: "Note Taking Application",
       img:
-        "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+        "https://media3.giphy.com/media/JczVpnYaTFr9ukKqpO/giphy.gif",
     },
     {
       id: 6,
-      title: "Banking App",
+      title: "Coming Soon!",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
@@ -40,32 +40,32 @@ export const featuredPortfolio = [
   export const webPortfolio = [
     {
       id: 1,
-      title: "Web Social Media App",
-      img: "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+      title: "Weather Dashboard",
+      img: "https://media4.giphy.com/media/hbjTbKK8gNjBC1Dpfv/giphy.gif",
     },
     {
       id: 2,
-      title: "Web Rampa UI Design",
-      img: "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+      title: "Password Generator",
+      img: "https://media1.giphy.com/media/zPry17CgXLAdbpq8rW/giphy.gif?cid=790b76116675e044de5f17c38b6bce245f6628f6eacb59fa&rid=giphy.gif&ct=g",
     },
     {
       id: 3,
-      title: "Web E-commerce Design",
-      img: "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
+      title: "Code Browser Quiz",
+      img: "https://media2.giphy.com/media/5cQi1QNGvqEowJD3Yh/giphy.gif?cid=790b7611b1bdd4abe778df4eb4457ea05589711df4ae9af7&rid=giphy.gif&ct=g",
     },
     {
       id: 4,
-      title: "Web Relax App",
+      title: "Coming Soon",
       img: "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 5,
-      title: "Web Design",
+      title: "Coming Soon",
       img: "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 6,
-      title: "Web Banking App",
+      title: "Coming Soon",
       img: "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
   ];
@@ -73,37 +73,37 @@ export const featuredPortfolio = [
   export const mobilePortfolio = [
     {
       id: 1,
-      title: "Mobile Social Media App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 2,
-      title: "Mobile Rampa UI Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 3,
-      title: "Mobile E-commerce Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 4,
-      title: "Mobile Relax App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 5,
-      title: "Mobile Hero Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 6,
-      title: "Mobile Banking App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
@@ -112,37 +112,37 @@ export const featuredPortfolio = [
   export const designPortfolio = [
     {
       id: 1,
-      title: "Design Social Media App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 2,
-      title: "Design Rampa UI Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 3,
-      title: "Design E-commerce Web Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 4,
-      title: "Design Relax Mobile App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 5,
-      title: "Design Keser Web Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 6,
-      title: "Design Banking App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
@@ -151,37 +151,37 @@ export const featuredPortfolio = [
   export const contentPortfolio = [
     {
       id: 1,
-      title: "Content Social Media App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 2,
-      title: "Content Rampa UI Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 3,
-      title: "Content E-commerce Web Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 4,
-      title: "Content Relax Mobile App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 5,
-      title: "Content Keser Web Design",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },
     {
       id: 6,
-      title: "Content Banking App",
+      title: "Coming Soon",
       img:
         "https://images.fineartamerica.com/images-medium-large-5/neon-blue-question-mark-ikon-ikon-images.jpg",
     },

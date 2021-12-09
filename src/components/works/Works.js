@@ -11,7 +11,7 @@ export default function Works() {
       desc:
         "Full Stack Bootcamp Web Design Training (HTML 5, CSS3, Bootstrap 5 Javascript ES6+) ",
       img:
-        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
+        "https://www.sololearn.com/Uploads/html-css.jpg",
     },
     {
       id: "2",
@@ -60,7 +60,7 @@ export default function Works() {
               </div>
               <div className="right">
                 <img
-                  src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930"
+                  src="https://www.hyperiondev.com/blog/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg"
                   alt=""
                 />
               </div>
